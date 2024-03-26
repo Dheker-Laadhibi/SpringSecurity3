@@ -1,0 +1,4 @@
+security:
+  jwt: 
+    secret-Key: verysecretkeyohmygodwhyisitsosecuredonttellanyone
+
